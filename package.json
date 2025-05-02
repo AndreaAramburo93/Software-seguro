@@ -1,0 +1,19 @@
+{
+  "name": "software-seguro",
+  "version": "1.0.0",
+  "description": "Trabajo de clase de software seguro, practica de implementaciones de ciberseguridad",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "mongoose": "^8.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
